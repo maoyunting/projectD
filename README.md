@@ -1,2 +1,2 @@
 # projectD
-edit by Tina 19.10.19
+edit by Tina Mao on Github on oct. 19
